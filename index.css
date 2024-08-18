@@ -24,6 +24,8 @@
 @media (max-width: 575px) {
   .u-section-1 .u-btn-1 {
     font-size: 0.875rem;
+    margin-top: 56px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-2 {
@@ -33,7 +35,7 @@
     font-size: 0.875rem;
     letter-spacing: 1px;
     border-style: solid;
-    margin: -105px auto 60px 74px;
+    margin: -102px auto 60px 74px;
     padding: 12px 33px 12px 32px;
   }
 }.u-section-2 .u-sheet-1 {
